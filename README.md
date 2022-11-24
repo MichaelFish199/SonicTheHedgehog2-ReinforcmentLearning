@@ -1,6 +1,4 @@
 # SonicTheHedgehog2-ReinforcmentLearning
-Creating agent that can play SonicTheHedgehog2 using stablebaselines3.
-
 Creating agent that can play SonicTheHedgehog2 using PPO from stablebaselines3.
 
 This repository contains:
